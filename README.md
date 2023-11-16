@@ -33,7 +33,6 @@ This app is developed by Omar Mohamed Sharawi, a software engineer.
 If you have any questions, suggestions, or feedback, feel free to contact me at:
 
 - Email: omarmosharawi@gmail.com
-- GitHub: @omarmosharawi
 - Instagram: @omarmosharawi
 - Twitter: @omarmosharawi
 
