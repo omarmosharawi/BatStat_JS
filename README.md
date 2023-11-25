@@ -1,6 +1,9 @@
 # Detect Battery Status
 BatStat_JS is a simple web app that detects your battery status.
 
+## Demo
+You can access the live demo of the web application here: [BatStat_JS](https://omarmosharawi.github.io/BatStat_JS/)
+
 ## Installation and Usage
 
 To use this app, you need to have a web browser that supports the Battery Status API, such as Chrome, Firefox, or Edge.
